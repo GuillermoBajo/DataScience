@@ -1,6 +1,6 @@
 # Data Science Repository
 
-Welcome to my Data Science repository! This repository contains homework assignments and a project developed as part of the **Sapienza's Fundamentals of Data Science** course. The assignments and project are focused on various data science techniques and methodologies, ranging from image processing to classification and advanced deep learning applications.
+This repository contains homework assignments and a project developed as part of the **Sapienza's Fundamentals of Data Science** course. The assignments and project are focused on various data science techniques and methodologies, ranging from image processing to classification and advanced deep learning applications.
 
 ---
 
